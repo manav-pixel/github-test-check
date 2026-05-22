@@ -1,0 +1,2 @@
+metric_id,dev_value,val_value,delta,status,used,delta_pct
+brier_score,0.1916497538687534,0.19110645459670703,-0.0005432992720463825,Green,"{'compare_mode': 'delta_pct', 'green_max': 0.05, 'amber_max': 0.15, 'direction': 'lower_is_better', 'pvalue_green_min': 0.05, 'pvalue_amber_min': 0.01, 'dev_floor': 0.0}",-0.28348550471838724
