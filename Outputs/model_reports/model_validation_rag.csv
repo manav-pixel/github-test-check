@@ -1,0 +1,2 @@
+metric_id,dev_value,val_value,delta,status,used,delta_pct
+gini,0.5563324800913283,0.5582745121576487,0.001942032066320376,Green,"{'compare_mode': 'delta_pct', 'green_max': 0.075, 'amber_max': 0.15, 'direction': 'lower_is_better', 'pvalue_green_min': 0.05, 'pvalue_amber_min': 0.01, 'dev_floor': 0.0}",0.3490775994242812
