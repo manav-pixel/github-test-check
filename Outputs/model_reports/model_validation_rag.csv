@@ -1,0 +1,3 @@
+metric_id,dev_value,val_value,delta,status,used,delta_pct
+gini,0.8268599645017849,0.8149539630472193,-0.0119060014545655,Green,"{'compare_mode': 'delta_pct', 'green_max': 0.075, 'amber_max': 0.15, 'direction': 'lower_is_better', 'pvalue_green_min': 0.05, 'pvalue_amber_min': 0.01, 'dev_floor': 0.0}",-1.4399054211966082
+auc_roc,0.9134299822508924,0.9074769815236097,-0.005953000727282776,Green,"{'compare_mode': 'delta_pct', 'green_max': 0.05, 'amber_max': 0.1, 'direction': 'lower_is_better', 'pvalue_green_min': 0.05, 'pvalue_amber_min': 0.01, 'dev_floor': 0.0}",-0.6517194358579376
